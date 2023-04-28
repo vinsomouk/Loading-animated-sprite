@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color: rgb(1, 1, 64);
+    justify-content: center;
+    color: white;
+}
+
+
+canvas{
+    position: relative;
+    top: 300px;
+}
+
+#progress-bar {
+    width: 0;
+    height: 5px;
+    background-color: rgb(250, 254, 0);
+    max-width: 1480px;
+    position: relative;
+    top: 300px;
+  }
+  
